@@ -1,7 +1,4 @@
-PHP:
 
-markdown
-Copy code
 # HostNexa - Hosting Management System
 
 
